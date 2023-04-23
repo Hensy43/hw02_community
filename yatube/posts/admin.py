@@ -1,4 +1,7 @@
+# импорты из стандартной библиотеки
 from django.contrib import admin
+
+# импорты модулей текущего проекта
 from .models import Post, Group
 
 
